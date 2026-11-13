@@ -1,0 +1,16 @@
+TemporadasLifeSteal — núcleo (edición gratuita)
+Copyright (c) 2026 Maximiliam Kirschberg Castillo. Todos los derechos reservados.
+
+LICENCIA PROVISIONAL. Este software es propietario. Salvo lo dispuesto abajo, no se concede ninguna licencia para
+copiarlo, modificarlo, distribuirlo, sublicenciarlo ni usarlo fuera de los servidores del titular y de las personas que
+este autorice por escrito. Esta licencia será sustituida por el contrato de licencia de usuario final de la edición
+gratuita (borrador en legal/EULA-EDICION-GRATUITA.md, pendiente de revisión) cuando esté redactado y revisado.
+
+Excepciones:
+1. El paquete es.nextgame.temporadas.api (interfaces públicas del núcleo) se ofrece bajo la licencia MIT (ver NOTICE).
+2. El adaptador de LifeStealZ (carpeta adaptador-lifestealz/) es un programa independiente bajo GPL-3.0-only (ver
+   adaptador-lifestealz/LICENSE).
+3. El texto MIT anterior de este archivo (hasta el commit 96a4fd8) sigue siendo válido para quien recibió copias de esas
+   versiones antes de este cambio; no se aplica a esta versión ni a las posteriores.
+
+Este software se ofrece «tal cual», sin garantía de ningún tipo.
